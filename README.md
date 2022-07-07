@@ -1,6 +1,6 @@
 # Belly_Button_Biodiversity
 
-https://jwetapatel.github.io/Belly_Button_Biodiversity/
+Link for interactive dashboard: https://jwetapatel.github.io/Belly_Button_Biodiversity/
 
 # Overview of Project
 
