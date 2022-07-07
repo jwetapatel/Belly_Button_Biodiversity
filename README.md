@@ -27,9 +27,10 @@ D3, Plotly, Bootstrap, Javascript, Html, VS Code
 
 ![guage chart](https://user-images.githubusercontent.com/96400887/177815115-f88b1de7-65f7-4278-b3f6-e7925f345aa5.png)
 
-4. Update all of the plots any time that a new sample is selected: Add an image to the jumbotron,background color , a variety of compatible colors to the webpage
-Use a custom font with contrast for the colors.
-Add more information about the project as a paragraph on the page.
+4. Update all of the plots any time that a new sample is selected: Added an image to the jumbotron,background color , a variety of compatible colors to the webpage,
+customized font with contrast for the colors,
+Added more information about the project as a paragraph on the page.
+
 Create my own layout as shown below:
 
 ![full website](https://user-images.githubusercontent.com/96400887/177816342-32d6d1a6-e80e-4f25-89e7-490850964f3f.png)
